@@ -1,8 +1,10 @@
 # Pulsar: Secure Steganography for Diffusion Models
 
-This repository contains the code for our paper, as well as the data from our evaluation benchmarks.
+This repository contains the code for our paper, as well as the data from our evaluation benchmarks. This repository will be updated as development occurs.
 
-This is the version of the repository submitted for consideration to the ACM CCS 2024 artifact committee. Future development will occur on the [GitHub repository](https://github.com/spacelab-ccny/pulsar), so please take a look there for updates.
+Our paper will appear at ACM CCS 2024. A preprint is available on [ePrint](https://eprint.iacr.org/2023/1758).
+
+For the version of the repository submitted for consideration to the ACM CCS 2024 artifact committee, please see the [`artifact` branch](https://github.com/spacelab-ccny/pulsar/tree/artifact).
 
 ## Configuration
 
